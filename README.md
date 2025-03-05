@@ -1,9 +1,9 @@
-# :computer: Site modelo para divulgação de Filme
+# :computer: Webssite to share GT Series
 
- ## :raising_hand: Meu primeiro site desenvolvido
+ ## :raising_hand: My first website developed
 
 <p align="justify">
-Este projeto foi uma jornada de aprendizado e descobertas. Ao desenvolver um site para divulgar o filme Gran Turismo, utilizando apenas <b>HTML</b> e <b>CSS</b>, pude me desafiar a criar uma interface intuitiva e visualmente impactante. A construção de elementos interativos e a otimização para diferentes dispositivos foram alguns dos desafios que me permitiram aprofundar meus conhecimentos. Com este projeto, dou os primeiros passos em direção ao desenvolvimento web e estou ansioso para explorar novas tecnologias e aprimorar minhas habilidades.
+This project has been a journey of learning and discovery. By developing a website to promote the movie Gran Turismo using only <b>HTML</b> and <b>CSS</b>, I challenged myself to create an intuitive and visually striking interface. Building interactive elements and optimizing for different devices were some of the challenges that allowed me to deepen my knowledge. With this project, I take my first steps into web development and am excited to explore new technologies and enhance my skills.
 </p>
 <br>
 <p align="center">
@@ -13,7 +13,7 @@ Este projeto foi uma jornada de aprendizado e descobertas. Ao desenvolver um sit
 <hr>
 <br>
 <p align="justify">
-Um dos maiores desafios que encontrei foram nas páginas de “Contato” e de “Jogos”. No “Contato” se teve um formulário que é bastante complicado montar o layout, tanto para que fique bom visualmente como organizado, e na parte da responsividade demorei um pouco até entender como ajustar. No “Jogos” teve a questão da transição dos cards, entender esse tipo de conceito no CSS faz com que você tenha que pensar um pouco mais, no final consegui o resultado que queria.
+One of the biggest challenges I faced was with the "Contact" and "Games" pages. In the "Contact" page, the form layout was quite tricky to design, both to ensure a visually appealing and well-organized structure. Additionally, it took me some time to figure out how to adjust the responsiveness properly. On the "Games" page, the transition effects for the cards were a challenge—understanding this concept in CSS requires extra thought. In the end, I managed to achieve the result I wanted.
 </p>
 <br>
 <p align="center">
@@ -23,7 +23,7 @@ Um dos maiores desafios que encontrei foram nas páginas de “Contato” e de �
 <hr>
 <br>
 <p align="justify">
-O próximo passo é continuar os estudos com objetivo em Front-end (e ainda tentarei buscar o Full-stack futuramente), para minha constante evolução, explorando novas tecnologias e atualizações no mercado.
+The next step is to continue my studies with a focus on Front-end (and eventually aim for Full-stack development in the future) to ensure my continuous growth. I plan to explore new technologies and stay updated with industry trends.
 </p>
 <br>
 <p align="center">
@@ -31,6 +31,6 @@ O próximo passo é continuar os estudos com objetivo em Front-end (e ainda tent
 </p>
 <br>
 <p align="center">
-Espero que goste, e qualquer feedback me ajudaria muito!<br>Acesse o site:
-<a href="https://ira-santos.github.io/GT-projeto1/" target="_blank" text-align: center><b>AQUI</b></a>! :oncoming_automobile:
+I hope you like it, and any feedback would be greatly appreciated!<br>Access the website:
+<a href="https://gt-project1.netlify.app/" target="_blank" text-align: center><b>HERE</b></a>! :oncoming_automobile:
 </p>
