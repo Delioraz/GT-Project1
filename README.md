@@ -1,4 +1,4 @@
-# :computer: Webssite to share GT Series
+# :computer: Website to share GT Series
 
  ## :raising_hand: My first website developed
 
